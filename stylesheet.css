@@ -1,1 +1,24 @@
-
+.container {
+    max-width: 100%;
+}
+@media (min-width: 576px) {
+    .container {
+        max-width: 576px;
+    }
+}
+header {
+    background: url('afbeelding/header.jpg') no-repeat center center;
+    background-size: cover;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+footer {
+    height: 200px;
+    background-color: #f8f9fa;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
