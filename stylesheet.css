@@ -27,3 +27,7 @@ footer {
     margin: 0 auto; /* Center the accordion */
     width: 80%; /* Adjust the width as needed */
 }
+.text-block {
+    margin-bottom: 20px; /* Add margin to the bottom of the text block */
+    text-align: center; /* Center the text */
+}
