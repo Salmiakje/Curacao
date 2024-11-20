@@ -22,3 +22,7 @@ footer {
     align-items: center;
     justify-content: center;
 }
+.card {
+    margin: 0 auto; /* Center the accordion */
+    width: 80%; /* Adjust the width as needed */
+}
