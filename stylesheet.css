@@ -31,3 +31,12 @@ footer {
     margin-bottom: 20px; /* Add margin to the bottom of the text block */
     text-align: center; /* Center the text */
 }
+}
+.card-header .btn {
+    background-color: #0000CD; /* Button background color */
+    color: #FFFFFF; /* Button text color */
+}
+.card-header .btn:hover {
+    background-color: #0000CD; /* Maintain background color on hover */
+    color: #FFFFFF; /* Maintain text color on hover */
+}
