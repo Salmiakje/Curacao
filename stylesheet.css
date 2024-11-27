@@ -24,19 +24,19 @@ footer {
     justify-content: center;
 }
 .card {
-    margin: 0 auto; /* Center the accordion */
-    width: 80%; /* Adjust the width as needed */
+    margin: 0 auto;
+    width: 80%; 
 }
 .text-block {
-    margin-bottom: 20px; /* Add margin to the bottom of the text block */
-    text-align: center; /* Center the text */
+    margin-bottom: 20px; 
+    text-align: center; 
 }
 }
 .card-header .btn {
-    background-color: #0000CD; /* Button background color */
-    color: #FFFFFF; /* Button text color */
+    background-color: #0000CD; 
+    color: #FFFFFF; 
 }
 .card-header .btn:hover {
-    background-color: #0000CD; /* Maintain background color on hover */
-    color: #FFFFFF; /* Maintain text color on hover */
+    background-color: #0000CD; 
+    color: #FFFFFF; 
 }
